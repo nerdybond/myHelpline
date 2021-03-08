@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## myHelpline - Making reaching out a whole lot easier
 
 You can use the [editor on GitHub](https://github.com/nerdybond/myHelpline/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
