@@ -1,6 +1,4 @@
-# HelpMeOut - Making reaching out a whole lot easier
-
-## Privacy Policy
+# HelpMeOut - Privacy Policy
 
 Michael Bond built the HelpMeOut app as a Free app. This SERVICE is provided by Michael Bond at no cost and is intended for use as is.
 
