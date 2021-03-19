@@ -1,4 +1,4 @@
-# myHelpline - Making reaching out a whole lot easier
+# HelpMeOut - Making reaching out a whole lot easier
 
 ## Privacy Policy
 
